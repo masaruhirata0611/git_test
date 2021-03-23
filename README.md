@@ -1,0 +1,1 @@
+This is Mashy's first git project!
